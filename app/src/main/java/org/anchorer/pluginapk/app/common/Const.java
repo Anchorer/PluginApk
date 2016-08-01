@@ -1,4 +1,4 @@
-package org.anchorer.pluginapk.app.consts;
+package org.anchorer.pluginapk.app.common;
 
 /**
  * Consts

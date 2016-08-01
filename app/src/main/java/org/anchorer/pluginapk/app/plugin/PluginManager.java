@@ -3,7 +3,7 @@ package org.anchorer.pluginapk.app.plugin;
 
 import android.util.Log;
 
-import org.anchorer.pluginapk.app.consts.Const;
+import org.anchorer.pluginapk.app.common.Const;
 import org.anchorer.pluginapk.library.TestInterface;
 
 public class PluginManager {
